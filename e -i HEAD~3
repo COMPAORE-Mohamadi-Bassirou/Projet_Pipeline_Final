@@ -1,0 +1,48 @@
+[33mcommit 32e39499f74ee614fe252adf9629699dd9a67840[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: COMPAORE-Mohamadi-Bassirou <mohamadibassirou@gmail.com>
+Date:   Wed Oct 30 13:55:17 2024 +0000
+
+    Supprimer les fichiers : Extract_Final.ipynb, Statistiques_Final.ipynb, Transform_Finale.ipynb
+
+[33mcommit 35c9664d4431d4017d3e26579d5f68173fbd5d4f[m
+Author: COMPAORE-Mohamadi-Bassirou <mohamadibassirou@gmail.com>
+Date:   Wed Oct 30 13:40:54 2024 +0000
+
+    Suppression du fichier Load_Final.ipynb contenant des clés sensibles
+
+[33mcommit fb1a94f05c1211a42e8641ac1b8ea4a05281daa5[m
+Author: COMPAORE-Mohamadi-Bassirou <mohamadibassirou@gmail.com>
+Date:   Wed Oct 30 13:37:49 2024 +0000
+
+    Ajout de nouveaux fichiers notebooks pour le pipeline ETL
+
+[33mcommit 8695474b84d9431c4804d22b479114e043c8a331[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: da888df 687fc60
+Author: COMPAORE-Mohamadi-Bassirou <mohamadibassirou@gmail.com>
+Date:   Wed Oct 30 13:20:15 2024 +0000
+
+    Initial commit for Streamlit dashboard
+
+[33mcommit da888df2a29b5eaa03d754e161fa244e5159572c[m
+Author: COMPAORE-Mohamadi-Bassirou <mohamadibassirou@gmail.com>
+Date:   Wed Oct 30 12:47:17 2024 +0000
+
+    Ajout du fichier README.md
+
+[33mcommit 687fc6082745fa1a27a5994156c2dde9005df15f[m
+Author: COMPAORE-Mohamadi-Bassirou <127846462+COMPAORE-Mohamadi-Bassirou@users.noreply.github.com>
+Date:   Wed Oct 30 10:38:48 2024 +0000
+
+    Update requirements.txt
+
+[33mcommit df6301eab8831c6a4ffa364d1f2665427a8f388e[m
+Author: COMPAORE-Mohamadi-Bassirou <127846462+COMPAORE-Mohamadi-Bassirou@users.noreply.github.com>
+Date:   Wed Oct 30 10:36:32 2024 +0000
+
+    Update Streamlit_Final.py
+
+[33mcommit 8401d2abc441bfd59420d4b469fcf84f14cb363a[m
+Author: COMPAORE-Mohamadi-Bassirou <mohamadibassirou@gmail.com>
+Date:   Wed Oct 30 10:24:02 2024 +0000
+
+    Initial commit
